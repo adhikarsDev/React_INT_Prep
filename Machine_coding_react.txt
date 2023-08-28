@@ -1,0 +1,100 @@
+Machine Coding Rounds key points
+-------------------------------------
+1. Time 
+2. Practise
+3. planning
+
+
+
+Machine coding steps to follow
+--------------------------------------
+1. Requirements clarifications - 2 mins
+2. Features - 2 mins
+3. Tech Stack - 5 mins
+4. LLD - 5 mins
+5. coding
+
+
+practice questions - https://github.com/devkodeio/the-dom-challenge
+channel - https://www.youtube.com/playlist?list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo
+
+ 
+
+Machine coding questions on react js
+--------------------------------------------------------------------
+Write a simple component that displays a message in a box.
+Write a component that takes an array of data and displays it in a table.
+Write a component that implements a form for adding a new item to an array of data.
+Write a component that implements a search bar that filters items in an array of data.
+Write a component that implements a navigation bar with multiple routes.
+Write a component that implements a modal window that opens when a button is clicked.
+Write a component that implements a simple pagination for an array of data.
+Write a component that implements a simple rating system (e.g., stars).
+Write a component that implements a progress bar.
+Write a component that implements a carousel (image slider).
+Write a component that implements an infinite scrolling list.
+Write a component that implements real-time updates for data in a list.
+Write a component that implements a drag-and-drop interface.
+Write a component that implements a tree view with expandable and collapsible nodes.
+Write a component that implements a complex chart (e.g., bar chart, pie chart, line chart).
+Write a component that implements a full-screen image viewer.
+Write a component that implements a responsive grid layout.
+Write a component that implements a responsive navigation menu with dropdown submenus.
+Write a component that implements a real-time chat application.
+Write a component that implements a high-performance, reusable data table.
+Write a component that implements an interactive map with markers and popups.
+Write a component that implements a real-time video chat application.
+Write a component that implements an animation-rich dashboard with interactive widgets.
+Write a component that implements a form with advanced validation and error handling.
+Write a component that implements a complex, multi-step wizard form.
+Write a component that implements a real-time multiplayer game.
+Write a component that implements a high-performance, sortable and filterable data table with pagination.
+Write a component that implements a real-time stock chart with dynamic updates.
+Write a component that implements a responsive, touch-friendly carousel with dynamic updates.
+Write a component that implements a real-time collaboration tool with live updates and version control.
+
+
+
+✍ 𝐅𝐞𝐭𝐜𝐡 𝐚𝐧𝐝 𝐃𝐢𝐬𝐩𝐥𝐚𝐲 𝐃𝐚𝐭𝐚:
+Create a component that fetches data from an API (e.g., using fetch or Axios) and displays it in a list format. Handle loading and error states appropriately.
+
+✍ 𝐓𝐨𝐝𝐨 𝐋𝐢𝐬𝐭:
+Implement a simple todo list application where users can add new tasks, mark tasks as completed, and delete tasks.
+
+✍ 𝐂𝐫𝐞𝐚𝐭𝐞 𝐚 𝐌𝐨𝐝𝐚𝐥 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭:
+Implement a modal component that overlays the main content and displays additional information or forms. The modal should open and close based on user interaction or a specific event.
+
+✍ 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭 𝐑𝐨𝐮𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧:
+Create a multi-page application using React Router. Build multiple pages/components and set up navigation between them using links or buttons.
+
+✍ 𝐔𝐬𝐞𝐫 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐅𝐨𝐫𝐦:
+Create a user registration form with fields for name, email, and password. Validate the form inputs and display error messages if necessary.
+
+✍ 𝐏𝐚𝐠𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭:
+Build a pagination component that takes a total number of items and displays a limited number of items per page. Allow users to navigate between pages.
+
+✍ 𝐈𝐦𝐚𝐠𝐞 𝐂𝐚𝐫𝐨𝐮𝐬𝐞𝐥:
+Develop an image carousel component that displays a slideshow of images with previous and next navigation buttons.
+
+✍ 𝐋𝐨𝐠𝐢𝐧/𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧:
+Build a login/authentication system using React and integrate it with a backend service or API.
+
+✍ 𝐃𝐫𝐚𝐠 𝐚𝐧𝐝 𝐃𝐫𝐨𝐩:
+Implement a drag and drop functionality using React's built-in drag and drop APIs or libraries like React DnD.
+
+✍ 𝐅𝐨𝐫𝐦 𝐕𝐚𝐥𝐢𝐝𝐚𝐭𝐢𝐨𝐧:
+Create a form with various input fields and implement client-side form validation using React.
+
+✍ 𝐓𝐢𝐜-𝐓𝐚𝐜-𝐓𝐨𝐞 𝐆𝐚𝐦𝐞:
+Create a tic-tac-toe game where users can play against each other or against the computer. Implement logic to determine the winner.
+
+✍ 𝐁𝐮𝐢𝐥𝐝 𝐚 𝐓𝐚𝐛𝐬 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭:
+Develop a tabs component that displays multiple tab options and shows the corresponding content based on the selected tab. Implement the necessary components and state management to handle tab switching.
+
+✍ 𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐞 𝐒𝐜𝐫𝐨𝐥𝐥:
+Implement an infinite scroll feature where new data is loaded as the user scrolls down the page. This can be applied to a list of articles, posts, or any other type of data.
+
+
+
+
+

@@ -1,0 +1,122 @@
+
+-------------------------------------------------------------------------------------------------------
+REACT JS interview questions with answers - https://github.com/sudheerj/reactjs-interview-questions
+
+REACT JS Topics imp links
+1. https://legacy.reactjs.org/docs/reconciliation.html
+2. How React.js Works- https://youtu.be/mLMfx8BEt8g
+3. Preserving and Resetting State – React - https://react.dev/learn/preserving-and-resetting-state
+4. Code Splitting in React JS - Lazy Loading Performance Optimization - https://www.youtube.com/watch?v=IBrmsyy9R94
+5. 10 Tips For FASTER React App - https://www.youtube.com/watch?v=rBhKb9JE8z0
+6. Modern Rendering Patterns - https://www.lydiahallie.io/blog/rendering-patterns
+7. SEO Topics - ReactDOMServer, Helmet and Next JS Overview
+8. NEXT JS OverView - https://www.patterns.dev/posts/nextjs
+9. Web Vitals - Performance Optimization | Core Web Vitals - https://www.youtube.com/watch?v=fq0Ag8rC5GE
+-------------------------------------------------------------------------------------------------------
+
+
+React
+-------------------------------------------------------------------------------------------------------
+1.	Can you explain what React is and what it's used for?
+2.	Can you explain the virtual DOM and how it works in React?
+3.	Can you explain the concept of JSX in React and how it differs from HTML?
+4.	Can you explain the component lifecycle methods in React and when they are called?
+5.	Can you explain the difference between state and props in React and when to use each?
+6.	Can you explain how React handles forms and controlled vs uncontrolled components?
+7.	Can you explain the concept of Higher-Order Components (HOC) in React and when to use them?
+8.	Can you explain the concept of context in React and when to use it?
+9.	Can you explain the concept of React Router and how it is used for client-side routing?
+10.	Can you explain how React's reconciliation algorithm works and how it differs from a virtual DOM?
+11.	Can you explain the concept of hooks in React and how they differ from class components?
+12.	Can you explain how the useEffect hook works and when to use it?
+13.	Can you explain the concept of lazy loading and code splitting in React and how it can be implemented?
+14.	Can you explain the concept of server-side rendering and its benefits in React?
+15.	Can you explain the concept of error boundaries in React and when to use them?
+16.	Can you explain the concept of portals in React and when to use them?
+17.	Can you explain the concept of forwardRef in React and when it should be used?
+18.	Can you explain the concept of suspense in React and how it works?
+19.	Can you explain the concept of hooks and how they can be used to create custom hooks?
+20.	Can you explain the concept of immutability in React and how it relates to the performance of the application?
+21.	Can you explain the concept of memoization in React and how it can be used to improve performance?
+22.	Can you explain the concept of Render Props and how it differs from HOC?
+23.	Can you explain the concept of hooks and how they can be used to manage state and side-effects in functional components?
+24.	Can you explain the concept of the new Concurrent Mode in React and its benefits?
+25.	Can you explain how the useContext hook works and when to use it?
+26.	Can you explain the concept of hooks and how they can be used to handle lifecycle methods in functional components?
+27.	Can you explain how the useReducer hook works and when to use it instead of useState?
+28.	Can you explain the concept of the new Suspense for data fetching in React?
+29.	Can you explain the concept of shouldComponentUpdate and how it can be used to optimize performance in React?
+30.	Can you explain the concept of PureComponent and how it differs from a regular component?
+31.	Can you explain the concept of key prop and how it can be used to optimize the performance of lists in React?
+32.	Can you explain the concept of memoization and how it can be used to optimize the performance of expensive functions in React?
+33.	Can you explain the concept of code splitting and how it can be used to improve the performance of React applications?
+34.	Can you explain the concept of server-side rendering and how it can be used to improve the performance of React applications?
+35.	Can you explain the concept of browser caching and how it can be used to improve the performance of React applications?
+36.	Can you explain the concept of lazy loading and how it can be used to improve the performance of React applications?
+37.	Can you explain the concept of the use of requestAnimationFrame for animation and how it can be used to improve the performance of React applications?
+38.	Can you discuss a performance issue you have faced while working with React and how you solved it?
+39.	Can you discuss a complex problem you have faced while working with React and how you solved it?
+40.	Finally, can you discuss a project or experience you have had using React and how it has helped you grow as a developer?
+
+
+
+React Router DOM
+------------------------------------------------------------------------------
+
+1.	Can you explain what React Router DOM is and how it works in React?
+2.	How do you set up React Router DOM in a React project?
+3.	What is the difference between Route and Switch components in React Router DOM?
+4.	How do you pass parameters to a route in React Router DOM?
+5.	Can you explain how you can handle 404 errors in React Router DOM?
+6.	How do you implement nested routes in React Router DOM?
+7.	Can you explain how you would make some routes private and protected using React Router DOM?
+8.	Can you give an example of how you would redirect users from one route to another in React Router DOM?
+9.	How do you make a dynamic route in React Router DOM?
+10.	How do you programmatically navigate between routes in React Router DOM?
+11.	Can you explain how you would implement a breadcrumb navigation using React Router DOM?
+12.	How do you implement lazy loading for routes in React Router DOM?
+13.	Can you explain how to persist route state across different components in React Router DOM?
+14.	How would you handle query parameters in React Router DOM?
+15.	Can you explain the concept of code splitting and how it relates to React Router DOM?
+16.	How would you implement a responsive design for routing in React Router DOM?
+17.	Can you explain how you would handle browser history in React Router DOM?
+18.	How would you make a single-page application (SPA) with React Router DOM?
+19.	Can you explain how to optimize the performance of a React Router DOM application?
+20.	How would you implement conditional routing in React Routerā DOM?
+
+
+JSX interview Questions 
+-------------------------------------------------------------------------------------
+
+1.What is JSX in React, and how does it work?
+2.How is JSX different from HTML, and what are some key similarities?
+3.Can you explain how JSX is transpiled to JavaScript?
+4.What are some common pitfalls to watch out for when working with JSX?
+5.How does JSX help with code reusability in React?
+6.Can you use JSX outside of React?
+7.How can you conditionally render elements with JSX?
+8.What is the role of Babel in working with JSX?
+9.What are the benefits of using JSX over traditional templating languages like Handlebars or EJS?
+10.Can you explain the role of JSX fragments in React?
+
+
+Performance Topics -
+------------------------------------------------------------------------------------------------------
+- Virtualization to optimise large lists
+- shouldComponentUpdate
+- React Profiler
+- React.memo ( Only memoize when props hardly change )
+- code splitting
+- Use `React.Fragments` to Avoid Additional HTML Element Wrappers
+- Avoid Inline Function Definition in the Render Function
+- Debounce and Throttling
+- useMemo + Its Polyfill
+- Cancel Token for axios call ( axios.CancelToken.source() )
+- key in map
+- using CDN when needed
+- server side rendering
+- vite
+
+
+
+
